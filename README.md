@@ -1,6 +1,5 @@
-# Getting Started with Create React App
+# React Portofolio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
@@ -29,5 +28,16 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
+# Pictures 
+![Gs](https://user-images.githubusercontent.com/117596796/236349179-a4819d02-cc7c-42c0-816d-1e8d490dce2a.png)
+
+![portofolio](https://user-images.githubusercontent.com/117596796/236349182-6e1b3078-95c6-4017-8dd4-5d38947afa7d.png)
+
+![resume](https://user-images.githubusercontent.com/117596796/236349190-f064800b-3bc9-4e47-b542-b48c425d5378.png)
+
+# Deployment 
 
 
+# Contact 
+Email: Geraldo Skana
+GitHub: https://github.com/garysk94
